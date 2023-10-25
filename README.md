@@ -10,7 +10,7 @@
 - [Slack](https://slack.com/)
 
  ## 📓 Lingid projektist
-- [Figma](https://www.figma.com/file/fWorQB1VOL1sMQNosSKPAN/Untitled?)
+- [Figma](https://www.figma.com/team_invite/redeem/i9d08rsZPJwwIQz4STXgMe)
 - [Töö, live](https://d0435abd.prygi-sort-1.pages.dev/)
 
 ## ⚡Meie tiimiliikmed:
@@ -22,7 +22,7 @@
 - Andrus Raamat
 - Anne Ruusmann
 
-★ **TAK - 21** ★
+★ **TAK - 23** ★
 - Kenno Kevin Kaal
 - Kaspar Truu
 
