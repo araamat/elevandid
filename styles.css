@@ -1,7 +1,12 @@
+@font-face {
+  font-family: "Roboto", sans-serif;
+  src: url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+}
 * {
-  margin:0;
+  margin: 0;
   padding: 0;
   text-decoration: none;
+  font-family: "Roboto", sans-serif;
 }
 
 /* header and footer */
@@ -12,24 +17,22 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 2px solid #F67A07;
+  border-bottom: 2px solid #f67a07;
 }
 
-
 @media only screen and (max-width: 900px) {
-    nav {
-        display: none;
-    }
-    .burger {
-      display:block;
-    }
+  nav {
+    display: none;
+  }
+  .burger {
+    display: block;
+  }
 }
 
 @media only screen and (min-width: 900px) {
-
-    .burger {
-      display:none;
-    }
+  .burger {
+    display: none;
+  }
 }
 
 .logotext {
@@ -47,8 +50,7 @@ header {
   padding-left: 16px;
 }
 h1 {
-  color: #FFF;
-  font-family: Inter;
+  color: #fff;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -67,30 +69,26 @@ ul {
 }
 
 li > a {
-  color: #FFF;
+  color: #fff;
   text-align: center;
-  font-family: Inter;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
   line-height: normal;
- 
 }
 .Search {
   border-radius: 50px;
-  background: #FFF;
+  background: #fff;
 
   color: #636161;
-  font-family: Inter;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
   line-height: normal;
   position: relative;
- 
 }
 .Searchbar {
-  position:absolute;
+  position: absolute;
   right: 25px;
   top: 30px;
 }
@@ -99,14 +97,13 @@ footer {
   position: fixed;
   width: 100%;
   bottom: 0;
-  color: #FFF;
+  color: #fff;
   background-color: #000000;
-  font-family: Inter;
   font-size: 12.8px;
   font-style: normal;
   font-weight: 500;
   line-height: normal;
-  border-top: 2px solid #F67A07;
+  border-top: 2px solid #f67a07;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -118,17 +115,16 @@ footer {
   padding-right: 16px;
 }
 .footerinfo {
-gap: 3px;
-display: flex;
-flex-direction: column;
-padding-left: 16px;
+  gap: 3px;
+  display: flex;
+  flex-direction: column;
+  padding-left: 16px;
 }
-
 
 /* main body */
 
 main {
-   margin: 3%; 
+  margin: 3%;
 }
 body {
   background-color: #212121;
@@ -145,7 +141,7 @@ body {
   width: 362px;
   height: 207px;
   border-radius: 0px 0px 11px 11px;
-  background: #FFF;
+  background: #fff;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -161,11 +157,9 @@ body {
   row-gap: 10px;
   display: flex;
   flex-direction: column;
-
 }
 .maintext p {
   color: #000000;
-  font-family: Inter;
   font-size: 31.25px;
   font-style: normal;
   font-weight: 700;
@@ -174,7 +168,6 @@ body {
 }
 .maintext h2 {
   color: #000;
-  font-family: Inter;
   font-size: 24px;
   font-style: normal;
   font-weight: 400;
@@ -184,9 +177,8 @@ body {
   width: 301px;
   height: 57px;
   border-radius: 11px;
-  background: #F67A07;
-  color: #FFF;
-  font-family: Inter;
+  background: #f67a07;
+  color: #fff;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
@@ -198,27 +190,27 @@ body {
   width: 362px;
   height: 482px;
   border-radius: 11px;
-  border: 3px dashed #FFF;
-  background: rgba(255, 255, 255, 0.00);
-   display: flex;
+  border: 3px dashed #fff;
+  background: rgba(255, 255, 255, 0);
+  display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .box-container {
-    justify-content: space-evenly;
-    display: grid;
-    grid-template-columns: auto auto auto;
-    grid-gap: 9% 2%;
+  justify-content: space-evenly;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 9% 2%;
 }
 @media only screen and (max-width: 1200px) {
-    .box-container {
-        grid-template-columns: auto auto;
-    }
+  .box-container {
+    grid-template-columns: auto auto;
+  }
 }
 
 @media only screen and (max-width: 760px) {
-    .box-container {
-        grid-template-columns: auto;
-    }
+  .box-container {
+    grid-template-columns: auto;
+  }
 }
