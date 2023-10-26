@@ -108,6 +108,7 @@ footer {
   justify-content: space-between;
   align-items: center;
   height: 80px;
+  
 }
 .socialmedia {
   display: flex;
@@ -126,6 +127,7 @@ footer {
 main {
   margin: 3%;
 }
+
 body {
   background-color: #212121;
 }
@@ -137,6 +139,7 @@ body {
   border: 1px solid white;
   border-radius: 11px 11px 0px 0px;
 }
+
 .movietitle {
   width: 362px;
   height: 207px;
@@ -147,6 +150,7 @@ body {
   justify-content: center;
   align-items: center;
   row-gap: 10px;
+  
 }
 .containerline {
   row-gap: 10px;
@@ -202,6 +206,7 @@ body {
   display: grid;
   grid-template-columns: auto auto auto;
   grid-gap: 9% 2%;
+  
 }
 @media only screen and (max-width: 1200px) {
   .box-container {
@@ -213,4 +218,5 @@ body {
   .box-container {
     grid-template-columns: auto;
   }
+
 }
