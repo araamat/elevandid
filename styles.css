@@ -3,6 +3,7 @@
   padding: 0;
   text-decoration: none;
 }
+
 /* header and footer */
 header {
   width: 100%;
@@ -13,6 +14,24 @@ header {
   align-items: center;
   border-bottom: 2px solid #F67A07;
 }
+
+
+@media only screen and (max-width: 900px) {
+    nav {
+        display: none;
+    }
+    .burger {
+      display:block;
+    }
+}
+
+@media only screen and (min-width: 900px) {
+
+    .burger {
+      display:none;
+    }
+}
+
 .logotext {
   display: flex;
   width: 368px;
@@ -75,10 +94,11 @@ li > a {
   right: 25px;
   top: 30px;
 }
-main {
-   background-color: #212121;
-}
+
 footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
   color: #FFF;
   background-color: #000000;
   font-family: Inter;
@@ -90,21 +110,29 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0px 16px;
   height: 80px;
 }
 .socialmedia {
   display: flex;
   gap: 16px;
+  padding-right: 16px;
 }
 .footerinfo {
 gap: 3px;
 display: flex;
 flex-direction: column;
+padding-left: 16px;
 }
 
 
 /* main body */
+
+main {
+   margin: 3%; 
+}
+body {
+  background-color: #212121;
+}
 
 .moviebox {
   width: 362px;
@@ -172,5 +200,25 @@ flex-direction: column;
   border-radius: 11px;
   border: 3px dashed #FFF;
   background: rgba(255, 255, 255, 0.00);
-  
+   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-container {
+    justify-content: space-evenly;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 9% 2%;
+}
+@media only screen and (max-width: 1200px) {
+    .box-container {
+        grid-template-columns: auto auto;
+    }
+}
+
+@media only screen and (max-width: 760px) {
+    .box-container {
+        grid-template-columns: auto;
+    }
 }
