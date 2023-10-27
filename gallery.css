@@ -202,4 +202,20 @@ button p {
 
 gap: 10px;}
 
-   
+@media only screen and (max-width: 1200px) {
+  
+}
+
+@media only screen and (max-width: 760px) {
+  .Pictures {
+    display: flex;
+    /* flex-wrap: wrap; */
+    flex-direction: column;
+    /* grid-template-columns: 100px 100px auto auto; */
+  }
+  .Pictures2{
+    display: flex;
+    flex-direction: column;
+  }
+
+}

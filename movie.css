@@ -185,7 +185,7 @@ button {border-radius: 8px;}
     font-size: 16px;
     font-weight: normal;
     display: flex;
-    height: 150px;
+    /* height: 150px; */
     line-break: strict;
     justify-content: space-between;
     color: white;
@@ -193,3 +193,31 @@ button {border-radius: 8px;}
 .h1font{font-family: sans-serif;}
 
 img {width: 375px; height: 508px;}
+
+@media only screen and (max-width: 1200px) {
+    .big-container {
+      grid-template-columns: auto auto;
+    }
+}
+  
+@media only screen and (max-width: 760px) {
+    .big-container {
+      grid-template-columns: auto;
+    }
+    .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        /* column-gap: 100px; */
+        row-gap: 20px;
+    }
+    .container2{
+        display: grid;
+    }
+    .textcontainer{
+        padding-bottom: 20px;
+    }
+  
+}
+  
