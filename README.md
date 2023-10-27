@@ -48,7 +48,7 @@
 ★ **Kenno Kevin Kaal** ★
 1. Tundides ja tulevikus rakendan oskuseid mida selle projekti ajal õppisin (HTML, CSS, FIGMA)
 2. Tiimitöö.
-3. Õppisin figma, html ja css ja nüüd oskan kõiki rohkem.
+3. Õppisin figma, html ja css, nüüd oskan kõiki rohkem.
 
 ★ **Kaspar Truu** ★
 1. Arendusprojektides rakendandasin rohkem kasutamist HTML ja CSS-ga
