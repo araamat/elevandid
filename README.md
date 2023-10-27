@@ -44,3 +44,8 @@
 1. Kodutöödes rakendan html ja css oskuseid.
 2. Kuulasin nooremaid (nii palju kui võimalik).
 3. Õppisin html ja css. Nt. milline "teadus" on  minu jaoks hetkel headerile logo saamine (õigesse kohta).
+
+★ **Kenno Kevin Kaal** ★
+1. Tundides ja tulevikus rakendan oskuseid mida selle projekti ajal õppisin (HTML, CSS, FIGMA)
+2. Tiimitöö.
+3. Õppisin figma, html ja css ja nüüd oskan kõiki rohkem.
