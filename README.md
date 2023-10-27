@@ -24,7 +24,7 @@
 - Andrus Raamat
 - Anne Ruusmann
 
-
+★ **TAK-23** ★
 - Kenno Kevin Kaal
 - Kaspar Truu
 
