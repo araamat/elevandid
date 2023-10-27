@@ -6,7 +6,7 @@
 
 ## Töövahendite loetelu:
 ### Projektis kasutatud töövahendid:
-- Ruumis olev tahvel, GitHub, Figma, VsCode
+- Ruumis olev tahvel, GitHub, Figma, VsCode, Zone.
 
 ## Valitud suhtluskanal
 - [Slack](https://slack.com/)
