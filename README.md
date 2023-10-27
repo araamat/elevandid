@@ -15,6 +15,14 @@
 - [Figma](https://www.figma.com/file/ssSwfPAdyoLyLZZY8YxCTI/elevandid?type=design&node-id=0-1&mode=design)
 - [Töö, live](https://elevandid.ta23raamat.itmajakas.ee/index.html)
 
+## Projekti kulg![Screenshot from 2023-10-27 09-52-33](https://github.com/araamat/elevandid/assets/58531378/a9b93640-0d27-4af4-8466-d3b478ae5e5f)
+
+### Esimene päev
+- Teema valik - mentoritel tekkis kiirest nägemus sellest, millist lehte me arendada võiksime. Sellega seoses saime kiiresti sisulise poolega tööd alustada.
+- Lehe 
+### Teine päev
+### Kolmas päev
+
 ## ⚡Meie tiimiliikmed:
 ★ **TAK-21** ★
 - Fredy Ait
