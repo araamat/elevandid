@@ -13,7 +13,7 @@
 
  ## 📓 Lingid projektist
 - [Figma](https://www.figma.com/file/ssSwfPAdyoLyLZZY8YxCTI/elevandid?type=design&node-id=0-1&mode=design)
-- [Töö, live]()
+- [Töö, live](https://elevandid.ta23raamat.itmajakas.ee/index.html)
 
 ## ⚡Meie tiimiliikmed:
 ★ **TAK-21** ★
