@@ -15,12 +15,17 @@
 - [Figma](https://www.figma.com/file/ssSwfPAdyoLyLZZY8YxCTI/elevandid?type=design&node-id=0-1&mode=design)
 - [Töö, live](https://elevandid.ta23raamat.itmajakas.ee/index.html)
 
-## Projekti kulg![Screenshot from 2023-10-27 09-52-33](https://github.com/araamat/elevandid/assets/58531378/a9b93640-0d27-4af4-8466-d3b478ae5e5f)
+## Projekti kulg
 
 ### Esimene päev
-- Teema valik - mentoritel tekkis kiirest nägemus sellest, millist lehte me arendada võiksime. Sellega seoses saime kiiresti sisulise poolega tööd alustada.
-- Lehe 
+- Teema valik: mentoritel tekkis kiirest nägemus sellest, millist lehte me arendada võiksime. Sellega seoses saime kiiresti sisulise poolega tööd alustada.
+- Lehe ja alamlehtede planeerimine:
+--![skeem](https://github.com/araamat/elevandid/assets/58531378/38f64542-fd76-4f38-8c6f-37eacc3cd669)
+--![IMG_20231025_135609_8](https://github.com/araamat/elevandid/assets/58531378/d7a4734f-4ab2-4b54-a346-27f131d97b22)
+- Värvide ja filmi valik.
+- Figmas disainimine: Igaüks sai oma lehe, mida disainida.
 ### Teine päev
+
 ### Kolmas päev
 
 ## ⚡Meie tiimiliikmed:
