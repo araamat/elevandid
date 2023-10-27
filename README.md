@@ -43,7 +43,7 @@
 ★ **Andrus Raamat** ★
 1. Kodutöödes rakendan html ja css oskuseid.
 2. Kuulasin nooremaid (nii palju kui võimalik).
-3. Õppisin html ja css. Nt. milline "teadus" on  minu jaoks hetkel headerile logo saamine (õigesse kohta).
+3. Õppisin html ja css. Tegin esilehe (k.a header ja footer).
 
 ★ **Kenno Kevin Kaal** ★
 1. Tundides ja tulevikus rakendan oskuseid mida selle projekti ajal õppisin (HTML, CSS, FIGMA)
