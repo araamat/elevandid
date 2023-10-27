@@ -12,7 +12,7 @@
 - [Slack](https://slack.com/)
 
  ## 📓 Lingid projektist
-- [Figma]([https://www.figma.com/team_invite/redeem/i9d08rsZPJwwIQz4STXgMe](https://www.figma.com/file/ssSwfPAdyoLyLZZY8YxCTI/elevandid?type=design&node-id=0-1&mode=design)
+- [Figma]([https://www.figma.com/team_invite/redeem/i9d08rsZPJwwIQz4STXgMe](https://www.figma.com/file/ssSwfPAdyoLyLZZY8YxCTI/elevandid?type=design&node-id=0-1&mode=design))
 - [Töö, live]()
 
 ## ⚡Meie tiimiliikmed:
