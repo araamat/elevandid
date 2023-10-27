@@ -1,14 +1,14 @@
 @font-face {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     src: url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
-}
-
+  }
 * {
-    padding: 0;
     margin: 0;
+    padding: 0;
     text-decoration: none;
     font-family: "Roboto", sans-serif;
 }
+
 /* header and footer */
 header {
     width: 100%;
@@ -18,7 +18,7 @@ header {
     justify-content: space-between;
     align-items: center;
     border-bottom: 2px solid #f67a07;
-}
+  }
   
 @media only screen and (max-width: 900px) {
     nav {
@@ -76,6 +76,7 @@ li > a {
     font-weight: 600;
     line-height: normal;
 }
+
 .Search {
     border-radius: 50px;
     background: #fff;
@@ -87,6 +88,7 @@ li > a {
     line-height: normal;
     position: relative;
 }
+
 .Searchbar {
     position: absolute;
     right: 25px;
@@ -94,121 +96,100 @@ li > a {
 }
 
 footer {
-  position: fixed;
-  width: 100%;
-  bottom: 0;
-  color: #fff;
-  background-color: #000000;
-  font-size: 12.8px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: normal;
-  border-top: 2px solid #f67a07;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  height: 80px;
-  
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    color: #fff;
+    background-color: #000000;
+    font-size: 12.8px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border-top: 2px solid #f67a07;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    
 }
 .socialmedia {
-  display: flex;
-  gap: 16px;
-  padding-right: 16px;
+    display: flex;
+    gap: 16px;
+    padding-right: 16px;
 }
 .footerinfo {
-  gap: 3px;
-  display: flex;
-  flex-direction: column;
-  padding-left: 16px;
-}
-  
-body {
+    gap: 3px;
     display: flex;
-    justify-content: center;
     flex-direction: column;
-    row-gap: 20px;
-    background-color: #212121;
-    color: white;
-    /* padding: 2%; */
-    /* max-width: 1000px; */
+    padding-left: 16px;
 }
 
-button:hover{
+body {background-color: rgb(21, 21, 21);}
+
+iframe {border:none;}
+
+h1 {color: rgb(255,255,255);}
+h2 {color: rgb(255,255,255);}
+h4 {color: rgb(109,95,95);}
+
+button {background-color: rgb(246,122,7);}
+button {color: rgb(255,255,255);}
+button {border:none;}
+button { width: 114px; height: 31px;}
+button {font-size: 16px;}
+button {border-radius: 8px;}
+
+.back:hover{
     cursor: pointer;
 }
-button {
+.back {
     width: 40px;
     height: 40px; 
     text-align: center;
     background-color: #F4AC69;
     border-radius: 11px;
     border: none;
+    margin: 20px 0px 0px 20px;
 }
 
-button p {
+.back p {
     font-size: 20px;
 }
+.block{
+    cursor: pointer;
+    margin-bottom: 100px;
+}
+.container{
+    display: flex; 
+    justify-content: space-around;
+    padding: 5px 0px 10px 0px;
+}
 
-.description {
+.container2{
+    display: flex; 
+    justify-content: space-around;
+    padding: 100px 0px 50px 0px;
+}
+.h4font{font-family: sans-serif;}
+.h2font{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.textcontainer{
     display: flex;
     flex-direction: column;
-    gap: 16px;
-    text-align: center;
-    margin-bottom: 3%;
+    max-width: 250px;
+    row-gap: 10px;
 }
-
-.team-members {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 9% 2%;
-}
-@media only screen and (max-width: 700px) {
-    .team-members {
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
-
-@media only screen and (max-width: 472px) {
-    .team-members {
-        grid-template-columns: repeat(1, 1fr);
-    }
-}
-
-.team-member {
+.text{
+    font-size: 16px;
+    font-weight: normal;
     display: flex;
-    box-sizing: border-box;
-    width: 100%;
-    height: auto;
-    border-radius: 11px;
-    border: 1px solid black;
-    background-color: #313030;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25)
+    height: 150px;
+    line-break: strict;
+    justify-content: space-between;
+    color: white;
 }
+.h1font{font-family: sans-serif;}
 
-div .member-face {
-    display: flex;
-    justify-content: center;
-}
-
-
-/*
-header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 80px;
-    background-color: black;
-    border-bottom: 2px solid #F67A07;
-}
-
-footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 80px;
-    background-color: black;
-    border-top: 2px solid #F67A07;
-}
-*/
+img {width: 375px; height: 508px;}
