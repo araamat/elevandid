@@ -1,0 +1,21 @@
+body {background-color: rgb(21, 21, 21);}
+
+iframe {border:none;}
+
+h1 {color: rgb(255,255,255);}
+h2 {color: rgb(255,255,255);}
+h4 {color: rgb(109,95,95);}
+
+button {background-color: rgb(246,122,7);}
+button {color: rgb(255,255,255);}
+button {border:none;}
+button { width: 114px; height: 31px;}
+button {font-size: 16px;}
+button {border-radius: 8px;}
+
+.container{display: flex; justify-content: space-around;}
+.h4font{font-family: sans-serif;}
+.h2font{font-family: sans-serif;}
+.h1font{font-family: sans-serif;}
+
+img {width: 375px; height: 508px;}
