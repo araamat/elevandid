@@ -43,4 +43,4 @@
 ★ **Andrus Raamat** ★
 1. Kodutöödes rakendan html ja css oskuseid.
 2. Kuulasin nooremaid (nii palju kui võimalik).
-3. Õppisin html ja css. Milline "teadus" on kasvõi hetkel minu jaoks headerile logo saamine jne.
+3. Õppisin html ja css. Nt. milline "teadus" on  minu jaoks hetkel headerile logo saamine (õigesse kohta).
