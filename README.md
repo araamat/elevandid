@@ -53,4 +53,9 @@
 ★ **Kaspar Truu** ★
 1. Arendusprojektides rakendandasin rohkem kasutamist HTML ja CSS-ga
 2. Tiimitöö ja figma
-3. Õppisin figma ja zone kasutama, sain rohkem teada HTML-ist ja CSS-ist kuidas programeerida 
+3. Õppisin figma ja zone kasutama, sain rohkem teada HTML-ist ja CSS-ist kuidas programeerida
+
+★ **Anne Ruusmann** ★
+1. Figma - teen kiiremini ja lihtsamalt kohandatavat disaini komponentide abil. html ja css oskuseid saan kindlasti edaspidi kasutada ja edasi arendada.
+2. Hea oli koos õppida, kui tiimiliikmete tase on sarnane. 
+3. Õppisin juurde ja harjutasin html ja css oskuseid ja Figma kasutamist. Tegin 2 lehe <body> elemendid ja proovisin teise tiimiliikme kirjutatud koodi (header ja footer) lisamist.
