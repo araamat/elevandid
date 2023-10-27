@@ -49,3 +49,8 @@
 1. Tundides ja tulevikus rakendan oskuseid mida selle projekti ajal õppisin (HTML, CSS, FIGMA)
 2. Tiimitöö.
 3. Õppisin figma, html ja css ja nüüd oskan kõiki rohkem.
+
+★ **Kaspar Truu** ★
+1. Arendusprojektides rakendandasin rohkem kasutamist HTML ja CSS-ga
+2. Tiimitöö ja figma
+3. Õppisin figma ja zone kasutama, sain rohkem teada HTML-ist ja CSS-ist kuidas programeerida 
